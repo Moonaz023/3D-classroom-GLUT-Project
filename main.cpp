@@ -1,4 +1,4 @@
-///Copyright © 2024 moonaz023. All Rights Reserved.
+///Copyright Â© 2024 Moonaz023 & Afrin001. All Rights Reserved.
 
 #include <GL/gl.h>
 #include <GL/glu.h>
@@ -723,7 +723,7 @@ int main(int argc, char** argv)
 
     printf("\nKeybord Control : \n");
     printf("Use 'o' to Open and Close Door. \n");
-    printf("\nCopyright © 2024 moonaz023. All Rights Reserved. \n");
+    printf("\nCopyright Â© 2024 Moonaz023 & Afrin001. All Rights Reserved. \n");
 
 
     glutMainLoop();
